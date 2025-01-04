@@ -1,0 +1,1 @@
+online converter: https://dom111.github.io/image-to-ansi/
