@@ -6,7 +6,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{7FC4E9
 	ProjectSection(SolutionItems) = preProject
 		build-logo.txt = build-logo.txt
 		empty.txt = empty.txt
-		empty2.txt = empty2.txt
 		readme.txt = readme.txt
 		snowman.sh = snowman.sh
 		snowman.txt = snowman.txt
