@@ -23,7 +23,7 @@ class Build : NukeBuild
     Target Run => _ => _
         .Executes(() =>
         {
-            var logo = File.ReadAllText(RootDirectory / "snowman.txt");
+            var logo = File.ReadAllText(RootDirectory / "socks.txt");
             logo = Regex.Replace(logo, @"(\r\n|\n)", Environment.NewLine);
             Console.WriteLine(logo);
         });
