@@ -8,3 +8,4 @@ riderModule.iml
 .nuke/temp
 
 output
+build.schema.json
