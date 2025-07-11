@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{7FC4E9
 		snowman.txt = snowman.txt
 		tree.txt = tree.txt
 		socks.txt = socks.txt
+		mario.txt = mario.txt
 	EndProjectSection
 EndProject
 Global
